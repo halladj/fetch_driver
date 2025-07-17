@@ -6,13 +6,14 @@ This is a script used to fetch the canon's printer drivers from **mr.Halladj's**
 ## how to use:
 
 ### clone the repository:
-`git clone https://github.com/halladj/fethc_driver`
+`git clone https://github.com/halladj/fetch_driver`
 
 
 ### make the script executable:
-`cd fetch_driver`
-`chmod -x fetch_driver.sh`
-
+```
+cd fetch_driver
+chmod +x fetch_driver.sh
+```
 
 ### Run the the script:
 `./fetch_driver.sh`

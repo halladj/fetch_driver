@@ -17,4 +17,4 @@ chmod +x fetch_driver.sh
 ```
 
 ### Run the the script:
-`./fetch_driver.sh`
+`./fetch_driver.sh misc 10.0.10.8 # example: machine @ed 10.0.10.8` 

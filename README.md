@@ -12,6 +12,7 @@ This is a script used to fetch the canon's printer drivers from **mr.Halladj's**
 ### make the script executable:
 ```
 cd fetch_driver
+
 chmod +x fetch_driver.sh
 ```
 
